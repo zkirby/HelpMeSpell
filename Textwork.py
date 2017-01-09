@@ -1,6 +1,5 @@
 '''
-This module is built on a class basses meaning all of the content
-of this module is contained within classes. This module is the 'hub' of
+This module is the 'hub' of
 the entire application. This is the only module that knows how to communicate
 with all of the other modules, this allows for a nice and safe abstraction
 barrier between all of the other modules.
